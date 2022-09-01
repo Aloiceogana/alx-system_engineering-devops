@@ -1,1 +1,2 @@
-mkdir 7-movethatfile
+#!/bin/bash
+mkdir ls /tmp/my_first_directory
